@@ -22,4 +22,4 @@ I'm passionate about leveraging technology to solve complex problems and create 
 ### 📫 Let's Connect!
 
 I'm always excited about discussing new ideas, sharing knowledge, and collaborating on interesting projects.\
-Feel free to reach out to me here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/oussama-issaoui)!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/oussama-issaoui)!
