@@ -13,7 +13,7 @@ My expertise spans across:
 - **Ruby on Rails Development:** Proficient in building full-stack applications, RESTful APIs, and microservices using Rails, ensuring scalability and maintainability.
 - **Database Design and Optimization:** Experienced in designing database schemas and optimizing queries to enhance performance.
 - **Test-Driven Development (TDD):** Strong advocate of TDD principles to ensure code reliability and maintainability, utilizing RSpec and other testing frameworks extensively.
-- **Frontend Technologies:** Skilled in frontend development with JavaScript, React, or Vue.js, ensuring seamless integration with Rails backend.
+- **Frontend Technologies:** Skilled in frontend development with JavaScript, React, or Ember.js, ensuring seamless integration with Rails backend.
 
 ### 🌟 What Drives Me
 
