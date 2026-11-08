@@ -1,25 +1,38 @@
-### Hi there 👋
+# Hi, I'm Oussama 👋
 
-I'm Oussama, a passionate Ruby on Rails developer with over 13 years of hands-on experience in crafting robust web applications. My journey began with a fascination for elegant code and scalable architectures, and it has since evolved into a relentless pursuit of excellence in software engineering.
+![Web developer](https://img.shields.io/badge/Web%20developer-since%202010-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Marseille](https://img.shields.io/badge/Based%20in-Marseille%2C%20France-0055A4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-### 💼 Professional Background
+> Web developer since 2010, specialized in Ruby on Rails. I build robust, maintainable web applications, and I'm exploring how AI-assisted workflows change the way we write software.
 
-I have been deeply immersed in the Rails ecosystem since its earlier iterations, witnessing its growth and evolution firsthand. Throughout my career, I've contributed to various projects, ranging from startups to enterprise-level applications, consistently striving to leverage the best practices and emerging technologies to deliver high-quality, efficient solutions.
+---
 
-### 🚀 Expertise
+## Tech I work with
 
-My expertise spans across:
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RSpec](https://img.shields.io/badge/RSpec-TDD-green?style=flat-square)
+![Hotwire](https://img.shields.io/badge/Hotwire-Turbo%20%2B%20Stimulus-000000?style=flat-square&logo=hotwire&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- **Ruby on Rails Development:** Proficient in building full-stack applications, RESTful APIs, and microservices using Rails, ensuring scalability and maintainability.
-- **Database Design and Optimization:** Experienced in designing database schemas and optimizing queries to enhance performance.
-- **Test-Driven Development (TDD):** Strong advocate of TDD principles to ensure code reliability and maintainability, utilizing RSpec and other testing frameworks extensively.
-- **Frontend Technologies:** Skilled in frontend development with JavaScript, React, or Ember.js, ensuring seamless integration with Rails backend.
+## What I'm good at
 
-### 🌟 What Drives Me
+| Area | What it means |
+|---|---|
+| 💎 **Rails** | Full-stack apps, REST APIs, services built to scale |
+| 🗄️ **Databases** | Schema design and query optimization |
+| ✅ **Testing** | TDD with RSpec, code that stays reliable |
+| ⚡ **Frontend** | Hotwire (Turbo, Stimulus) and JavaScript for fast, reactive Rails apps |
 
-I'm passionate about leveraging technology to solve complex problems and create impactful solutions. I thrive in collaborative environments, where my experience and expertise can contribute to innovative projects and foster a culture of continuous improvement.
+## GitHub stats
 
-### 📫 Let's Connect!
+![Stats](https://github-readme-stats.vercel.app/api?username=thesubr00t&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thesubr00t&layout=compact&theme=tokyonight&hide_border=true)
 
-I'm always excited about discussing new ideas, sharing knowledge, and collaborating on interesting projects.\
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/oussama-issaoui)!
+---
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-issaoui)
+[![Website](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=githubpages&logoColor=white)](https://thesubr00t.github.io)
